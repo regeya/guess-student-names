@@ -127,6 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+fake_data/*
 !fake_data/make_data.py
 !fake_data/orig/hat-ge18768c99_1920.jpg
 !fake_data/orig/man-g0911f736e_1920.jpg
