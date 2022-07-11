@@ -20,3 +20,6 @@ Or, in the case of this particular school, one particular year:
 
 SHANESIMMONS.jpg
 
+What this script does is searches a list of firstnames, surnames, and uses a fuzzy search to find the most likely match.  It reduces most of the work to correcting incorrect matchings.
+
+The script as it stands now has hard-coded filenames and directories; as long as you have a list of common first names and surnames, it should worke
